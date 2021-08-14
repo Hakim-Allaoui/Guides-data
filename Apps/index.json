@@ -42,9 +42,9 @@
         "adsmode": "mopub",
         "ads": {
             "mopub": {
-                "banner": "0cd269d3e7cc43f99078c9d19a628ff1-",
-                "Inter": "eacc313413af45d2a80c9fac2bc261c2--",
-                "reward": "dae0325ba5ec4df288c8832f0253a943---"
+                "banner": "0cd269d3e7cc43f99078c9d19a628ff1",
+                "Inter": "eacc313413af45d2a80c9fac2bc261c2",
+                "reward": "dae0325ba5ec4df288c8832f0253a943"
             },
             "ironsource": {
                 "banner": "",
