@@ -1,45 +1,15 @@
 {
-    "default": {
-        "adsmode": "mopub",
-        "ads": {
-            "mopub": {
-                "banner": "0cd269d3e7cc43f99078c9d19a628ff1",
-                "Inter": "eacc313413af45d2a80c9fac2bc261c2",
-                "reward": "dae0325ba5ec4df288c8832f0253a943"
-            },
-            "ironsource": {
-                "banner": "",
-                "Inter": "",
-                "reward": ""
-            }
-        },
-        "online_articles": "false",
-        "in_app_browser": "false",
-        "traffic_text": "IMPORTANT💡: To verify that you are a human and not a bot, you need to Rate the app and share it with at least one friend.",
-        "traffic_url": "https://play.google.com/store/apps/details?id=com.prank.fakepost.faker",
-        "articles": [
-            {
-                "title": "Title 1",
-                "imageUrl": "",
-                "content": "<p><span>Paragraph 1<\/span><\/p>"
-            },
-            {
-                "title": "Title 2",
-                "imageUrl": "",
-                "content": "<p><span>Paragraph 2<\/span><\/p>"
-            }
-        ],
-        "featured_apps": [
-            {
-                "title": "Fake it: Post Maker for Facebook",
-                "url": "https://play.google.com/store/apps/details?id=com.hvkiw.fbclonepost",
-                "icon_url": "https://raw.githubusercontent.com/Hakim-Allaoui/More_apps/main/images/FakePost.png",
-                "rating": 4.1
-            }
-        ]
-    },
+    "featured_apps": [
+        {
+            "title": "Fake it: Post Maker for Facebook",
+            "url": "https://play.google.com/store/apps/details?id=com.hvkiw.fbclonepost",
+            "icon_url": "https://raw.githubusercontent.com/Hakim-Allaoui/More_apps/main/images/FakePost.png",
+            "rating": 4.1
+        }
+    ],
     "com.sausageman.battlegroundguide": {
         "ads_mode": "mopub",
+        "online_ads": "true",
         "ads": {
             "mopub": {
                 "banner": "3b4613d51c194978b67a0ed17fc51c1f",
@@ -47,9 +17,7 @@
                 "reward": "761a0e8d821e4f9d8373ad72afb6989e"
             },
             "ironsource": {
-                "banner": "",
-                "Inter": "",
-                "reward": ""
+                "app_key": ""
             }
         },
         "online_articles": "false",
@@ -66,14 +34,6 @@
                 "title": "Title 2",
                 "imageUrl": "",
                 "content": "<p><span>Paragraph 2<\/span><\/p>"
-            }
-        ],
-        "featured_apps": [
-            {
-                "title": "Fake it: Post Maker for Facebook",
-                "url": "https://play.google.com/store/apps/details?id=com.hvkiw.fbclonepost",
-                "icon_url": "https://raw.githubusercontent.com/Hakim-Allaoui/More_apps/main/images/FakePost.png",
-                "rating": 4.1
             }
         ]
     }
