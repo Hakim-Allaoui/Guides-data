@@ -39,7 +39,7 @@
         ]
     },
     "com.sausageman.battlegroundguide": {
-        "adsmode": "mopub",
+        "ads_mode": "mopub",
         "ads": {
             "mopub": {
                 "banner": "3b4613d51c194978b67a0ed17fc51c1f",
