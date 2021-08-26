@@ -1,0 +1,57 @@
+{
+    "json object": {
+      "data": {
+        "banner": "default",
+        "MREC": "default",
+        "interstitial": "default",
+        "native": "default",
+        "appID": "6127858108fe6c2d735d6ae2",
+        "clientKey": "be58c4e8-9d82-450a-8903-4ef39755ec48",
+        "showActivities": "true"
+      },
+      "items": [
+        {
+          "image": "https://ia601402.us.archive.org/15/items/m2_20210820/m1.png",
+          "title": "Welcome :)",
+          "guide1": "This app contains all of the hints, tips, and techniques that we've learned while playing Count Master.",
+          "guide2": "Hopefully, these methods will assist you in improving you level at this game."
+        },
+        {
+          "image": "https://ia601402.us.archive.org/15/items/m2_20210820/m2.png",
+          "title": "Tip 1:",
+          "guide1": "error",
+          "guide2": "."
+        },
+        {
+          "image": "https://ia801402.us.archive.org/15/items/m2_20210820/m3.png",
+          "title": "Tip 2:",
+          "guide1": "error",
+          "guide2": "."
+        },
+        {
+         "image": "https://ia801402.us.archive.org/15/items/m2_20210820/m4.png",
+          "title": "Tip 3:",
+          "guide1": "error",
+          "guide2": "."
+        },
+        {
+          "image": "https://ia601402.us.archive.org/15/items/m2_20210820/m5.png",
+          "title": "Tip 4:",
+          "guide1": "error",
+          "guide2": "."
+        },
+        {
+          "image": "https://ia601402.us.archive.org/15/items/m2_20210820/m6.png",
+          "title": "Tip 5:",
+          "guide1": "error",
+          "guide2": "."
+        },
+        {
+          "image": "https://ia601402.us.archive.org/15/items/m2_20210820/m6.png",
+          "title": "Special Thanks",
+          "guide1": "Thank you for downloading our app, and we hope it will help you get better in the game :)",
+          "guide2": " "
+        }
+      ]
+    }
+  }
